@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rathish 👋
 
-<!--
-**RathishRaji08/RathishRaji08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year CSE student, PSG Tech Coimbatore — actively preparing for placements (SDE/Full-Stack roles)
 
-Here are some ideas to get you started:
+🔭 Currently building **[Cycle-Rental App]** — a full-stack platform for secure e-cycle rentals in hostels, with automated fine escalation and deposit-based payments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning DSA daily, pattern by pattern — check my progress in [DSA-PRACTICE](https://github.com/RathishRaji08/DSA-PRACTICE)
+
+💻 Tech I'm working with: Python, JavaScript, React, Node.js, SQL
+
+📫 Reach me: rathishraji812@gmail.com |
+
+---
+⚡ Fun fact: I'm documenting my entire placement prep journey through consistent daily commits — check my contribution graph!
