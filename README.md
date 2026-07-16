@@ -8,7 +8,7 @@
 
 💻 Tech I'm working with: Python, JavaScript, React, Node.js, SQL
 
-📫 Reach me: rathishraji812@gmail.com |
+📫 Reach me: rathishraji812@gmail.com | [LinkedIn](https://www.linkedin.com/in/rathish-raji-b91940421)
 
 ---
 ⚡ Fun fact: I'm documenting my entire placement prep journey through consistent daily commits — check my contribution graph!
